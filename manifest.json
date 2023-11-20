@@ -1,0 +1,17 @@
+{
+    "name": "RENTAL MOBIL GILANG",
+    "short_name": "RMG",
+    "description": "Aplikasi untuk merental mobil",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+      {
+        "src": "logogilang.jpg",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "splash_pages": null
+  }
